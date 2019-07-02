@@ -1,2 +1,2 @@
 let numero = parseInt(prompt("Entre com o numero: "));
-alert(numero);
+alert('O Numero Digitado foi: ' + numero);
